@@ -1,5 +1,3 @@
-Project ReactJS for get data api a
-
 ## START
 
     git clone https://github.com/mauricioliradev/huntweb.git
